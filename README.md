@@ -1,6 +1,6 @@
 # Ethereum ENS tutorial and playground with JavaScript and web3.js
 
-For educational purposes.
+For educational purposes. Made for: https://energyweb.atlassian.net/wiki/spaces/EWF/pages/555745281/Using+ENS+on+Tobalaba.
 
 Used with [Parity client](https://github.com/paritytech/parity-ethereum) version 1.11.6 Beta
 
